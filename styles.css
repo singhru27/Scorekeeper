@@ -3,3 +3,7 @@
 .show {
     display: inline-flex;
 }
+
+.opaque {
+    opacity: 0.5;
+}
