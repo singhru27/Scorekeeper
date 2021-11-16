@@ -6,7 +6,7 @@ Scorekeeping application for Ping Pong. Choose what score you want to play to, a
 ## Project Status
 
 
-This project is in progress
+This project is completed
 
 ## Project Screen Shot(s)
 
