@@ -1,7 +1,5 @@
 ## Project Name & Pitch
 
-Image Gallery:
-
 Scorekeeping application for Ping Pong. Choose what score you want to play to, and click the buttons to allocate points. Built using HTML, Bootstrap, CSS, and Javascript. 
 ## Project Status
 
